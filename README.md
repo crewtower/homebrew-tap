@@ -5,8 +5,8 @@ Homebrew tap for [CrewTower](https://crewtower.app/), a macOS notch panel to mon
 ## Install
 
 ```sh
-brew tap altansaid/tap
-brew trust altansaid/tap
+brew tap crewtower/tap
+brew trust crewtower/tap
 brew install --cask crewtower
 ```
 
