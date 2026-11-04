@@ -5,15 +5,12 @@ Homebrew tap for [CrewTower](https://crewtower.app/), a macOS notch panel to mon
 ## Install
 
 ```sh
-brew install --cask altansaid/tap/crewtower
-```
-
-Or tap first:
-
-```sh
 brew tap altansaid/tap
+brew trust altansaid/tap
 brew install --cask crewtower
 ```
+
+Homebrew asks you to trust third-party taps before it loads them, which is what the second line does.
 
 CrewTower updates itself in-app.
 Requires macOS 15 (Sequoia) or later.
