@@ -1,6 +1,6 @@
 cask "crewtower" do
-  version "1.0.38"
-  sha256 "56d77dfd2812adfac20d5b95a5b413a722bdae9333f3d75c4458de7198d31655"
+  version "1.0.39"
+  sha256 "0679c6dff50fec960f685cd8b19800940e5a520a5d7b7ba87d048bc6e9e0dd75"
 
   url "https://dl.crewtower.app/CrewTower-#{version}.dmg"
   name "CrewTower"
